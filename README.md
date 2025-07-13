@@ -2,16 +2,15 @@
 
 ###
 
-<h3 align="left">My name is Rolando and I'm a QA Lead and Senior SDET from Mexico.</h3>
+<h2 align="left">My name is Rolando and I'm a QA Lead and Senior SDET from Mexico.</h2>
 
 ###
 
-<h3 align="left">About me:
-I like music and videogames!</h3>
+<h4 align="left">About me:<br><br>I like Rock music and Videogames! oh.. wait.. you were asking about my professional experience?</h4>
 
 ###
 
-<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning API Automation Frameworks.<br>🎯 Goals: Keep improving my skills.<br>🎲 Fun fact: Fun fact is that there is no fun fact.</p>
+<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning API Automation Frameworks.<br>🎯 Goals: Keep improving my skills in multiple frameworks and code languages.<br>🎲 Fun fact: Fun fact is that there is no fun fact, could you believe it? it's amazing.</p>
 
 ###
 
@@ -64,4 +63,5 @@ I like music and videogames!</h3>
 </div>
 
 ###
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/396eb8ca-dd80-4f17-844f-4f9df1b26cab" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/30cc3b73-55de-43c2-98e2-0765c2a593e2" />
+
