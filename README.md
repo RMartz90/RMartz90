@@ -6,7 +6,16 @@
 
 ###
 
-<h4 align="left">About me:<br><br>I like Rock music and Videogames! oh.. wait.. you were asking about my professional experience?</h4>
+<h4 align="left">About me:<br><br>Experienced Senior Quality Software Engineer with over 13 
+years of proven success in delivering robust, high-performing 
+solutions for leading global brands in the entertainment and 
+retail industries. Skilled in driving end-to-end quality assurance 
+strategies, leading cross-functional teams, and ensuring on
+time project delivery with a strong emphasis on reliability, 
+scalability, and performance. Adept at aligning QA practices 
+with business goals, fostering collaboration across teams, and 
+continuously improving processes to support long-term product 
+excellence.</h4>
 
 ###
 
