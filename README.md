@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Rolando and I'm a QA Lead and Senior SDET from Mexico.</h2>
+<h2 align="left">My name is Rolando Martinez and I'm a QA Lead and Senior SDET from Mexico.</h2>
 
 ###
 
